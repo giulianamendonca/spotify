@@ -37,7 +37,7 @@ README.md           # Documentação
     * matplotlib
     * pandas
 
-# Limitações
+## Limitações
 * Esta análise utiliza apenas os dados do Spotify, não considerando a popularidade em outras plataformas de streaming e meios analógicos.
 * A métrica de valência é uma abstração computacional e não representa, de forma absoluta, a interpretação emocional subjetiva de uma música.
 
